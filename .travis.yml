@@ -1,5 +1,4 @@
 language: python
-.travis.yml
 python:
 - 3.8.2
 before_install:
